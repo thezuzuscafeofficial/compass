@@ -1,0 +1,6 @@
+{
+  "name": "Compass",
+  "description": "AI-Powered Multi-Tenant Bookkeeping Platform. We'll take it from here.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
